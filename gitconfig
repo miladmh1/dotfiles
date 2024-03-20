@@ -58,7 +58,7 @@
   rebase = false
 
 [init]
-  defaultBranch = master
+	defaultBranch = main
 [user]
 	email = miladjadidi2@gmail.com
 	name = milad jadidi
